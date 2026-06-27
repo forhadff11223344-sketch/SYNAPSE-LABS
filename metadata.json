@@ -1,0 +1,6 @@
+{
+  "name": "Synapse Labs",
+  "description": "Premium subscription accounts and digital games storefront selling Netflix, Amazon Prime, VPNs, and PC game keys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
